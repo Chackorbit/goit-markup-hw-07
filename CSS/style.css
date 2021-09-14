@@ -507,6 +507,7 @@ input:-webkit-autofill:active {
 }
 
 /* Наша команда */
+
 .our-team {
   display: flex;
   justify-content: center;
@@ -625,6 +626,7 @@ input:-webkit-autofill:active {
 }
 
 /* Футер */
+
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
